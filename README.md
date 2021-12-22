@@ -5,5 +5,6 @@ Repositório referente ao desafio de Git/Github no qual organizarei meus estudos
 
 :file_folder: Introdução ao Github </br>
 :file_folder: Projeto Ágeis com SCRUM </br>
+:file_folder: ES6 Essencial </br>
 
 
